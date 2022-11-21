@@ -7,7 +7,7 @@ This installation is implemented with Python (back-end), TouchDesigner (front-en
 The top feature is the extremely user-reactive interface.
 
 <p align="center">
-  <img src="BigliettoCPAC.png">
+  <img src="Ticket.png">
 </p>
 
 You can find more here: 
