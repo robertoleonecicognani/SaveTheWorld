@@ -56,3 +56,10 @@ TouchDesigner:
 - Introductive course (ITA): https://www.youtube.com/playlist?list=PLhhSecfe3762IytiKsT472xhnF1LciVJE
 - Useful channel: https://www.youtube.com/channel/UCONptu0J1PCrW9YfBtSdqjA
 - Introductive site with example: https://alltd.org/category/beginner/
+
+# Contributors
+
+Roberto Alessandri: https://github.com/RobertoAlessandri
+Alberto Di Maria: https://github.com/albedimaria
+Enrico Regondi: https://github.com/enricoregondi
+Roberto Leone Cicognani: https://github.com/robertoleonecicognani
