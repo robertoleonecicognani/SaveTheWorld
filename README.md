@@ -59,7 +59,7 @@ TouchDesigner:
 
 # Contributors
 
-Roberto Alessandri: https://github.com/RobertoAlessandri
-Alberto Di Maria: https://github.com/albedimaria
-Enrico Regondi: https://github.com/enricoregondi
-Roberto Leone Cicognani: https://github.com/robertoleonecicognani
+- Roberto Alessandri: https://github.com/RobertoAlessandri
+- Alberto Di Maria: https://github.com/albedimaria
+- Enrico Regondi: https://github.com/enricoregondi
+- Roberto Leone Cicognani: https://github.com/robertoleonecicognani
