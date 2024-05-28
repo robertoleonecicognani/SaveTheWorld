@@ -1,6 +1,6 @@
 # SaveTheWorld
 
-SaveTheWorld is creative programming project, with the aim of raising the awareness of the impact of our gestures on the environment.
+SaveTheWorld is a creative programming project, with the aim of raising the awareness of the impact of our gestures on the environment.
 
 This installation is implemented with Python (back-end), TouchDesigner (front-end) and SuperCollider for the music landscape. 
 
