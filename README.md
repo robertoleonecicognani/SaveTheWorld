@@ -10,8 +10,9 @@ The top feature is the extremely user-reactive interface.
   <img src="Ticket.png">
 </p>
 
-You can find more here: 
-This version is avaiable only for desktop device.
+Check these demos:
+https://www.youtube.com/watch?v=EJzQYHWChfQ
+https://www.youtube.com/watch?v=ZZgKsxLA2LU
 
 ***
 
